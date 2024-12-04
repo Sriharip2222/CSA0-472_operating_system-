@@ -1,1 +1,0 @@
-# CSA0-472_operating_system-
